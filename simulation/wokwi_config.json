@@ -1,0 +1,8 @@
+{
+    "version": 1,
+    "author": "Shyam-Charan",
+    "editor": "wokwi",
+    "parts": [
+        {"type": "board-blue-pill", "id": "stm32"}
+    ]
+}
